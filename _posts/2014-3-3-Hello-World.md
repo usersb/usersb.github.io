@@ -1,10 +1,10 @@
 ---
 layout: post
-title: DATASCIENCE ENTHUSIAST
+title: DataScience Journey Begins...
 ---
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
-##**Metis Data Science Bootcamp**##  
+**Metis Data Science Bootcamp**
 
 My first week at Metis is done! I has been fast paced, demanding and a great experience so far. Although, for me it was a rough
 start as I got sick with cold, flu and conjunctivitis the weekend before the bootcamp started. So my first day was a bit 
@@ -19,7 +19,7 @@ The class is conducted by two friendly,helpful and highly knowledgable instructo
 pair programming in the morning followed by lecture till lunch. The session post lunch consists of another lecture for around 
 two hours. After the lecture students work on challenges and/or projects.  
 
-##Metis Week One - Project Benson##  
+Metis Week One - Project Benson  
 
 The first week at the bootcamp focused on lectures on pandas- a python package for data analysis as well as a quick overview of
 matplotlib and seaborn - python plotting and data visualization libraries. Learning all these skills help us download data,
@@ -41,7 +41,7 @@ the advantages and challenges one can get working as a team.
 Practice working on presentations and presenting it to an audience of considerable size since data science is all about working 
 and presenting or communicating the work.  
 
-##Project Work##  
+Project Work
 Following is a brief overview of the work our team performed on the project without delving into the technical details:  
 
 1. Downloaded the MTA turnstile data from the source mentioned above for a period of four months within 2017. We decided to work 
@@ -60,7 +60,9 @@ months.
 4. At this point we were able to populate a map with commuter hotspots based on real-time analytics. By aggregating the traffic 
 that occurs at a station Monday to Friday - 4pm to 8pm, our team was able to rank all the stations based on commuter traffic.
 A map of this data is depicted in the figure below.  
-(*Insert  figure 1*)
+
+![an image alt text]({{ site.baseurl }}/images/img_1.png "Fig. 1 A map illustrating station exits across a 4 PM - 8 PM weekday 
+time period. Large bubble size indicates more station traffic.")
 
 A bubble has been plotted for each station and the size of each bubble relates to the amount of traffic exiting the station. The
 large bubbles on the map therefore belong to the busiest stations on the subway network. It is apparent from the map that the 
@@ -77,12 +79,20 @@ congested areas between taxi firms.
 
 As an example, we looked at the Barclay's center area in Brooklyn. There are number of 'low traffic' stations within a smaller 
 proximity of each other. Figure 2 below illustrates all the stations within a ten minute driving time from the Barclay's center 
-station (based on google maps time estimation).  
+station (based on google maps time estimation).   
+
+![an image alt text]({{ site.baseurl }}/images/img_2.png "Fig 2. There are a number of stations within close proximity of each
+ other and examining station traffic by area warrants further analysis.")
+ 
 
 Figure 3 below shows the aggregated exit data for stations clustered around the Barclay's center(in blue) is comparable to the 
 numbers of commuter traffic seen in the busiest manhattan stations.  
 
-##Conclusion##  
+![an image alt text]({{ site.baseurl }}/images/img_3.png "Fig 3. Aggregated exit data for stations clustered around the Barclays
+Center (in blue) is comparable to the numbers of commuter traffic seen in the busiest Manhattan stations.")
+  
+
+Conclusion 
 At present taxi drivers are left to themselves to decide where to roam for customers. They typically roam around know tourist
 maps like the Time Square or the Empire State building. While these locations have very high commuter traffic, they also have
 very high taxi density.  
@@ -94,8 +104,4 @@ solution that can increase NyBer's competitiveness. By scaling the aggregate cou
 factor', we can weigh station clusters that are around less public transportation.  
 Most New Yorkers use the MTA to get around the city.  
  
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+------------------------------------------------------------------------------------------------------------------------------------
