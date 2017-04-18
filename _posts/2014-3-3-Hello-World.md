@@ -56,7 +56,8 @@ the advantages and challenges one can get working as a team.
 Practice working on presentations and presenting it to an audience of considerable size since data science is all about working 
 and presenting or communicating the work.  
 
-**Project Work**
+**Project Work**  
+
 Following is a brief overview of the work our team performed on the project without delving into the technical details:  
 
 1. Downloaded the MTA turnstile data from the source mentioned above for a period of four months within 2017. We decided to work 
@@ -107,7 +108,8 @@ numbers of commuter traffic seen in the busiest manhattan stations.
 Center (in blue) is comparable to the numbers of commuter traffic seen in the busiest Manhattan stations.")
   
 
-**Conclusion** 
+**Conclusion**   
+
 At present taxi drivers are left to themselves to decide where to roam for customers. They typically roam around know tourist
 maps like the Time Square or the Empire State building. While these locations have very high commuter traffic, they also have
 very high taxi density.  
