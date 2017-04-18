@@ -4,14 +4,29 @@ title: DataScience Journey Begins...
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+I’m absolutely amazed at what this field of data science has achieved in terms of self driving cars, identifying human form, 
+reading letters, numbers off of a picture and much more. The more I read about these amazing achievements the more I get 
+interested in the field and makes me want to contribute.
+
+I'm really grateful to my professor at New York University - Foster Provost, who first instilled the interest for data science
+in me. I really enjoyed studying data mining and practical data science under his guidance. Unfortunately I didn't get a chance
+to apply my data science skills on my job after graduation. I took a career break to look after my then new baby who's now an
+adorable toddler. Instead of letting this break become a roadblock, I considered it a blessing in disguise to get back to 
+honing my data science skills. I opted for a couple of MOOCs and thereafter completed Stanford's online Machine Learning course
+taught by professor Andrew Ng. This course really amped up my interest in machine learning and I decided to pursue it full time
+in order to accomplish some interesting projects by working through the entire data science project life cycle. 
+
+Metis is a 12 week immersive datascience bootcamp which provided me the opportunity I was looking for. Metis's 60+ hours of 
+pre-work was quite interesting to work on and helped bridge the gaps in my knowledge. I hope my Metis experience takes my data 
+science pursuit up a notch.
+
 **Metis Data Science Bootcamp**
 
 My first week at Metis is done! I has been fast paced, demanding and a great experience so far. Although, for me it was a rough
-start as I got sick with cold, flu and conjunctivitis the weekend before the bootcamp started. So my first day was a bit 
-overwhelming in terms of absorbing two days worth of material in a day. But as the week progressed it got much better and I 
-started enjoying my time at the bootcamp.  
+start as my week started with cold, flu and conjunctivitis. So the bootcamp start was overwhelming for me to some extent. But 
+as the week progressed it got much better and I started enjoying the bootcamp.
 
-My cohort comprises of 21 students from varied backgrounds in terms of education, work experience and domains such as (). Some
+My cohort comprises of 21 students from varied backgrounds in terms of education, work experience and domains. Some
 of the students are highly skilled in programming while the others have great statistics skills. The cohort is a good 
 amalgamation of all the skils required to be a good data scientist and we hope to learn and benefit from each others strengths.  
 
@@ -19,7 +34,7 @@ The class is conducted by two friendly,helpful and highly knowledgable instructo
 pair programming in the morning followed by lecture till lunch. The session post lunch consists of another lecture for around 
 two hours. After the lecture students work on challenges and/or projects.  
 
-Metis Week One - Project Benson  
+**Metis Week One - Project Benson**  
 
 The first week at the bootcamp focused on lectures on pandas- a python package for data analysis as well as a quick overview of
 matplotlib and seaborn - python plotting and data visualization libraries. Learning all these skills help us download data,
@@ -27,13 +42,13 @@ clean and perform exploratory data analysis and find interesting insights from t
 the first project at the bootcamp - Project Benson.  
 
 Project Benson was a group project and we were a team of five members. For project Benson, we were required to provide 
-consultation to a company - NyBer which was seeking aid for the New York city chapter of their transportation business.
-NyBer needed help resolving the following concerns:  
+consultation to a company - NyBER which was seeking aid for the New York city chapter of their transportation business.
+NyBER needed help resolving the following concerns:  
 1. Declining revenue (2016 Q2, Q3,Q4)  
 2. Taxi wait times increased by 50%+  
 3. Overall customer experience declined by 60%  
 The data that Metis wanted us to explore for this project is the MTA Subway Turnstile data which is publicly available at 
-[MTA Turnstile data](http://web.mta.info/developers/turnstile.html). The deliverable was to provide insights and recommendation to NyBer
+[MTA Turnstile data](http://web.mta.info/developers/turnstile.html). The deliverable was to provide insights and recommendation to NyBER
 at the end of the week as to how they can improve revenue and capture a major share of the local taxi market.  
 
 Metis's idea behind the project was to get the students work in a team, getting to know each other in the process, experience
@@ -41,7 +56,7 @@ the advantages and challenges one can get working as a team.
 Practice working on presentations and presenting it to an audience of considerable size since data science is all about working 
 and presenting or communicating the work.  
 
-Project Work
+**Project Work**
 Following is a brief overview of the work our team performed on the project without delving into the technical details:  
 
 1. Downloaded the MTA turnstile data from the source mentioned above for a period of four months within 2017. We decided to work 
@@ -92,16 +107,18 @@ numbers of commuter traffic seen in the busiest manhattan stations.
 Center (in blue) is comparable to the numbers of commuter traffic seen in the busiest Manhattan stations.")
   
 
-Conclusion 
+**Conclusion** 
 At present taxi drivers are left to themselves to decide where to roam for customers. They typically roam around know tourist
 maps like the Time Square or the Empire State building. While these locations have very high commuter traffic, they also have
 very high taxi density.  
 Based on our analysis, we have identified key hotspots within many traditionally overlooked areas. We would like to recommend
-NyBer a taxi dispatching system that sends drivers to the nearest calculated hotspot based off of their current location.  
+NyBER a taxi dispatching system that sends drivers to the nearest calculated hotspot based off of their current location.  
 
 In addition to the taxi dispatch platform, there are also additional data metrics we can take into account not depicted in this
-solution that can increase NyBer's competitiveness. By scaling the aggregate count of each station by an aggregate 'isolation
+solution that can increase NyBER's competitiveness. By scaling the aggregate count of each station by an aggregate 'isolation
 factor', we can weigh station clusters that are around less public transportation.  
-Most New Yorkers use the MTA to get around the city.  
+Most New Yorkers use the MTA to get around the city. It's typically at more isolated stations to call a cab than they think. By 
+weighing  our traffic data by the isolation of a transportation cluster, we can further the effectiveness of NyBER's dispatch
+system.  
  
 ------------------------------------------------------------------------------------------------------------------------------------
